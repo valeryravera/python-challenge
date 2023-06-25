@@ -15,4 +15,6 @@ They also fixed some of my code when it came to defining the variables and any d
 Another reference used was for the next function, help located within: 
 https://stackoverflow.com/questions/14257373/how-to-skip-the-headers-when-processing-a-csv-file-using-python/14257599#14257599
 
+In reference to the changes and average in profits/losses , I used the help of a peer who asked a question to our instructor on zoom, and he advised us verbally how to best calculate it logically, what methods and processes/steps to do. I reviewed the recording, and tried my best to write code based off of that.
+
 I've also attached screenshots incase it was needed to see the result in the terminals.
