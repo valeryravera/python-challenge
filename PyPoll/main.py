@@ -4,7 +4,7 @@ import csv
 # ------ PyPoll main solution -------
 #Files and paths
 election_data_csv = os.path.join("Resources", "election_data.csv")
-output_file = os.path.join("Resources", "election_results.txt")
+output_file = os.path.join("analysis", "election_results.txt")
 
 # Create dictionaries to store the vote counts and percentages
 candidate_votes = {}
