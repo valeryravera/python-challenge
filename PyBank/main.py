@@ -4,7 +4,7 @@ import csv
 # ----- PyBank main solution -----
 # Setting paths for csv files
 budget_data_csv = os.path.join("Resources", "budget_data.csv")
-output_file = os.path.join("Resources", "financial_analysis.txt")
+output_file = os.path.join("analysis", "financial_analysis.txt")
 
 # Open and read the CSV file
 with open(budget_data_csv) as csv_file:
